@@ -1,1 +1,7 @@
-# full-spectrum
+# Full-spectrum
+
+A complete list of tools for creating ES2016 front-end applications.
+
+![Pink Floyd - Dark side of the moon](./Dark_Side_of_the_Moon.png)
+> &copy; Pink Floyd - Dark side of the moon
+
