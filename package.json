@@ -1,5 +1,5 @@
 {
-  "name": "bb-lp-cli-next",
+  "name": "ui-tools",
   "version": "0.0.1-alpha",
   "description": "Backbase shared UI core components",
   "main": "./tools/setup.js",
